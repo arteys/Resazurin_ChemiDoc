@@ -1,0 +1,56 @@
+[expt]
+blank = 'No'
+
+# Blanks:
+[well.'A1,H1,A12,H12']
+blank = 'Yes'
+
+
+# Concetration
+[col.'1']
+conc_uM = '100'
+
+[col.'2']
+conc_uM = '50'
+
+[col.'3']
+conc_uM = '25'
+
+[col.'4']
+conc_uM = '10'
+
+[col.'5']
+conc_uM = '7.5'
+
+[col.'6']
+conc_uM = '5'
+
+[col.'7']
+conc_uM = '2.5'
+
+[col.'8']
+conc_uM = '1'
+
+[col.'9']
+conc_uM = '0.5'
+
+[col.'10']
+conc_uM = '0.25'
+
+[col.'11']
+conc_uM = '0.125'
+
+[col.'12']
+conc_uM = '0'
+
+
+
+
+
+
+
+
+
+
+
+

@@ -1,0 +1,14 @@
+[expt]
+blank = 'No'
+
+[block.2x8]
+
+A3.sample = '20 pc'
+A5.sample = '10 pc'
+A7.sample = '1 pc'
+A9.sample = 'Control'
+
+A1.blank = 'Yes'
+A11.blank = 'Yes'
+
+
